@@ -12,7 +12,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm ci
   BuildCommand: npm run build
-  Output: .//storage/emulated/0/Kdo Bhai website
+  Output: ./storage/emulated/0/Kdo Bhai website
 
 jobs:
   build:
